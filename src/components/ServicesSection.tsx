@@ -19,12 +19,12 @@ const services = [
   {
     icon: Droplets,
     title: "MECHAS O DECOLORACIÓN 55,00€",
-    desc: "INFORMACION RELACION CON MECHAS Y DECOLARACION",
+    desc: "Mechas y decoloración para dar luz, contraste y personalidad a tu cabello. Resultados naturales y adaptados a cada cliente.",
   },
   {
     icon: Star,
     title: "Servicios extras",
-    desc: "CORTE Y BARBA 16,00€\nPERFILADO DISEÑO DE CEJAS 2,00€\nLIMPIEZA FACIALL 20,00€",
+    desc: "CORTE Y BARBA 16,00€\nPERFILADO Y DISEÑO DE CEJAS 2,00€\nLIMPIEZA FACIAL 20,00€",
   },
 ];
 
