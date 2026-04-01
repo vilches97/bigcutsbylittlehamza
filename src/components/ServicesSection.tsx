@@ -24,7 +24,7 @@ const services = [
   {
     icon: Star,
     title: "Servicios extras",
-    desc: "CORTE CABALLERO 12,00€\nCORTE Y BARBA 16,00€\nRECORTE Y PERFILADO DE BARBA 8,00€\nDISEÑOS HAIR TATTO 3,50€\nMECHAS O DECOLORACIÓN 55,00€\nPERFILADO DISEÑO DE CEJAS 2,00€\nLIMPIEZA FACIAL 20,00€",
+    desc: "Cejas, mascarillas faciales, depilación con cera y más para completar tu look.",
   },
 ];
 
