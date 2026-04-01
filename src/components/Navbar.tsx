@@ -34,7 +34,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="https://booksy.com"
+            href="https://booksy.com/es-es/128812_big-cuts_barberia_28835_martos#ba_s=sr_1"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-primary text-primary-foreground px-5 py-2.5 rounded-lg font-heading font-semibold text-sm uppercase tracking-wider hover:box-glow transition-all duration-300"
@@ -65,7 +65,7 @@ const Navbar = () => {
             ))}
             <div className="flex gap-3 pt-4">
               <a
-                href="https://booksy.com"
+                href="https://booksy.com/es-es/128812_big-cuts_barberia_28835_martos#ba_s=sr_1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-primary text-primary-foreground text-center py-3 rounded-lg font-heading font-semibold text-sm uppercase"

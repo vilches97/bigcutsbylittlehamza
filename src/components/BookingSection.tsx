@@ -19,7 +19,7 @@ const BookingSection = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="https://booksy.com"
+            href="https://booksy.com/es-es/128812_big-cuts_barberia_28835_martos#ba_s=sr_1"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 bg-primary text-primary-foreground px-10 py-5 rounded-xl font-heading font-bold uppercase tracking-wider text-sm hover:box-glow hover:scale-105 transition-all duration-300 animate-glow-pulse"

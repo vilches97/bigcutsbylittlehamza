@@ -50,7 +50,7 @@ const HeroSection = () => {
           style={{ animationDelay: "1.2s" }}
         >
           <a
-            href="https://booksy.com"
+            href="https://booksy.com/es-es/128812_big-cuts_barberia_28835_martos#ba_s=sr_1"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-primary text-primary-foreground px-8 py-4 rounded-lg font-heading font-bold uppercase tracking-wider text-sm hover:box-glow transition-all duration-300 hover:scale-105"
