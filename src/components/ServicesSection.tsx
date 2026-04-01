@@ -3,28 +3,28 @@ import { Scissors, Sparkles, Palette, Droplets, Star } from "lucide-react";
 const services = [
   {
     icon: Scissors,
-    title: "Corte de cabello",
+    title: "CORTE DE CABALLERO 12,00€",
     desc: "Cortes modernos, clásicos y personalizados. Adaptados a tu estilo y tipo de rostro.",
   },
   {
     icon: Sparkles,
-    title: "Arreglo de barba",
+    title: "RECORTE Y PERFILADO DE BARBA 8,00€",
     desc: "Perfilado, recorte y diseño de barba con acabado profesional y productos premium.",
   },
   {
     icon: Palette,
-    title: "Perfilado + Diseño",
+    title: "DISEÑOS HAIR TATTO 3,50€",
     desc: "Diseños personalizados y líneas de precisión para un look único y diferenciador.",
   },
   {
     icon: Droplets,
-    title: "Tratamientos capilares",
-    desc: "Hidratación, nutrición y cuidado del cuero cabelludo con productos de alta gama.",
+    title: "MECHAS O DECOLORACIÓN 55,00€",
+    desc: "INFORMACION RELACION CON MECHAS Y DECOLARACION",
   },
   {
     icon: Star,
     title: "Servicios extras",
-    desc: "Cejas, mascarillas faciales, depilación con cera y más para completar tu look.",
+    desc: "CORTE Y BARBA 16,00€\nPERFILADO DISEÑO DE CEJAS 2,00€\nLIMPIEZA FACIALL 20,00€",
   },
 ];
 
